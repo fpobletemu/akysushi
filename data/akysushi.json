@@ -1,0 +1,522 @@
+[
+  {
+    "ID": "1",
+    "Titulo": "Atún, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "2",
+    "Titulo": "Atún, Queso Crema, Ciboulette",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "3",
+    "Titulo": "Camarón, Palta, Champiñón Furai",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.700</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.300</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.500</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "4",
+    "Titulo": "Camarón, Queso Crema, Ciboulette",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "5",
+    "Titulo": "Camarón, Queso Crema, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.800</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.400</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.600</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "6",
+    "Titulo": "Camarón, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "7",
+    "Titulo": "Camarón Furai, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "8",
+    "Titulo": "Camarón Furai, Queso Crema, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "9",
+    "Titulo": "Camarón Furai, Queso Crema, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.800</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.400</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.600</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "10",
+    "Titulo": "Carne, Queso Crema, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.300</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.900</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.100</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "11",
+    "Titulo": "Carne, Mozarella, Pimentón",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "12",
+    "Titulo": "Champiñon Furai y Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "13",
+    "Titulo": "Champiñon Furai, Queso Crema, Ciboulette",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "14",
+    "Titulo": "Kanikama y Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.100</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.700</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $3.900</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "15",
+    "Titulo": "Kanikama y Queso Crema",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.100</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.700</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $3.900</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "16",
+    "Titulo": "Palmito, Champiñon Furai, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.200</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.800</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.000</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "17",
+    "Titulo": "Palmito, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.300</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $3.900</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.100</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "18",
+    "Titulo": "Pollo, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "19",
+    "Titulo": "Pollo, Queso Crema, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "20",
+    "Titulo": "Pollo, Queso Crema, Champiñon Furai",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.200</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "21",
+    "Titulo": "Pollo Furai, Queso Crema, Ciboulette",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "22",
+    "Titulo": "Pollo, Queso Crema, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "23",
+    "Titulo": "Salmón, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.600</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.200</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.400</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "24",
+    "Titulo": "Salmón, Queso Crema, Ciboulette",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.300</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "25",
+    "Titulo": "Salmón, Queso Crema, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $3.900</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.500</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.700</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "26",
+    "Titulo": "Salmón, Queso Crema, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $4.100</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.700</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.900</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "27",
+    "Titulo": "Salmón, Camarón, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $4.300</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.900</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $5.100</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "28",
+    "Titulo": "Salmón, Atún, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $4.400</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $5.000</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $5.200</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "29",
+    "Titulo": "Pulpo, Queso Crema, Ciboulette",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $4.000</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $4.600</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $4.800</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "30",
+    "Titulo": "Pulpo, Camarón, Queso Crema",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Sésamo o Ciboulette <b> - $4.500</b></li> <li>Envuelto en Palta, Tempura, Masago o Queso Crema <b> - $5.100</b></li> <li>Envuelto en Atún, Salmón, o Pollo Tempura <b> - $5.300</b></li>",
+    "Tipo": "roll",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "31",
+    "Titulo": "Salmón, Queso Crema, Camarón",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Palta con salsa Acevichada <b> - $4.600</b></li>",
+    "Tipo": "especialidades",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "32",
+    "Titulo": "Pollo Furai, Queso Crema, Palta",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Pollo con salsa de Champiñon <b> - $4.900</b></li>",
+    "Tipo": "especialidades",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "33",
+    "Titulo": "Camaron, Palta, Cebollín, Queso Crema",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Salmon con salsa de Cilantro y Palta <b> - $5.500</b></li>",
+    "Tipo": "especialidades",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "34",
+    "Titulo": "Atún, Salmón, Ciboulette, Queso Crema",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Palta con salsa Acevichada <b> - $5.600</b></li>",
+    "Tipo": "especialidades",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "35",
+    "Titulo": "Camarón, Salmón, Queso Crema, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Tempura <b> - $5.600</b></li>",
+    "Tipo": "sin-arroz",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "35",
+    "Titulo": "Camarón Furai, Kanikama, Queso Crema, Cebollín",
+    "Descripcion": "Este sushi es muy rico <li>Envuelto en Palta <b> - $5.200</b></li>",
+    "Tipo": "sin-arroz",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "39",
+    "Titulo": "Atún, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico",
+    "Tipo": "hosomaki",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "41",
+    "Titulo": "Atún, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico",
+    "Tipo": "akymano",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "43",
+    "Titulo": "Atún, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico",
+    "Tipo": "platos",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "51",
+    "Titulo": "Atún, Palta, Cebollín",
+    "Descripcion": "Este sushi es muy rico",
+    "Tipo": "picoteos",
+    "Precio": 3.600,
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  }
+]
