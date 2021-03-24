@@ -31,7 +31,7 @@ function traerDatos() {
                                     </a>
                                 </div>
                                 <a class="btn btn-default btn-block" data-toggle="modal"
-                                    data-target="#${item.ID}">${item.Titulo}</a>
+                                    data-target="#${item.ID}">${item.ID}.- ${item.Titulo}</a>
                             </div>
                             <!-- Modal -->
                             <div class="modal fade" id="${item.ID}" tabindex="-1" role="dialog"
@@ -42,7 +42,7 @@ function traerDatos() {
                                             <button type="button" class="close" data-dismiss="modal"><span
                                                     aria-hidden="true">&times;</span><span
                                                     class="sr-only">Cerrar</span></button>
-                                            <h4 class="modal-title" id="${item.ID}-label">${item.Titulo}</h4>
+                                            <h4 class="modal-title" id="${item.ID}-label">${item.ID}.-${item.Titulo}</h4>
                                         </div>
                                         <div class="modal-body">
 
