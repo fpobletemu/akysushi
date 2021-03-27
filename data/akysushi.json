@@ -713,5 +713,213 @@
       "/img/sushis/img1-2.jpg",
       "/img/sushis/img1-3.jpg"
     ]
+  },
+  {
+    "ID": "P1",
+    "Titulo": "10 Piezas",
+    "Descripcion": "<li>10 Kanikama, queso crema, ciboulette, envuelto en sésamo</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [5000],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P2",
+    "Titulo": "30 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Kanikama, queso crema, ciboulette, envuelto en sésamo</li><li>10 Pollo, pimentón, cebollín, envuelto en algo nori tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [7900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P3",
+    "Titulo": "40 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Kanikama, palta, envuelto en sésamo.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura</li><li>10 Pollo, pimentón, cebollín, envuelto en alga nori tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [9900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P4",
+    "Titulo": "50 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Kanikama, palta, envuelto en tempura.</li><li>10 Pollo, pimentón, cebollín, envuelto en alga nori tempurizada.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [10900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P5",
+    "Titulo": "60 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Kanikama, queso crema, cebollín, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en ciboulette.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Pollo, queso crema, cebollín envuelto en tempura.</li><li>10 Pollo, pimentón, cebollín, envuelto en algo nori tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [14600],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P6",
+    "Titulo": "70 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Kanikama, queso crema, cebollín, envuelto en tempura.</li><li>Champiñon furai, palta, envuelto en ciboulette.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, pimentón, cebollín, envuelto en algo tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [15900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P7",
+    "Titulo": "80 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en salmón.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Champiñon furai, palta, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, envuelto en tempura.</li><li>Pollo, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en sésamo.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [18900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P8",
+    "Titulo": "100 Piezas",
+    "Descripcion": "<li>10 Camarón furai, queso crema, cebollín, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Kanikama, palta, envuelto en salmón.</li><li>Salmón, queso crema, ciboulette, envuelto en palta.</li><li>Pollo, queso crema, cebollín, envuelto en ciboulette.</li><li>10 Pollo, queso crema, envuelto en alga nori.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li>",
+    "Tipo": "promos-mixtas",
+    "Precio": [24900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P9",
+    "Titulo": "20 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en palta.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [6600],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P10",
+    "Titulo": "30 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en palta.</li><li>10 Pollo, queso creoma, cebollín, envuelto en palta.</li><li>10 Salmón, queso crema, ciboulette, envuelto en sésamo.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [9600],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P11",
+    "Titulo": "40 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Salmón, queso crema, ciboulette, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [12600],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P12",
+    "Titulo": "50 Piezas Premium",
+    "Descripcion": "<li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [15900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P13",
+    "Titulo": "60 Piezas Premium",
+    "Descripcion": "<li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li10 Salmón, queso crema, ciboulette, envuelto en sésamo.></li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [18600],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P14",
+    "Titulo": "70 Piezas Premium",
+    "Descripcion": "<li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, cebollín furai, envuelto en tempura.</li><li>10 Champiñon furai, palta, envuelto en ciboulette.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [18600],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P15",
+    "Titulo": "80 Piezas Premium",
+    "Descripcion": "<li>10 Camarón furai, queso crema, ciboulette, envuelto en palta.</li><li>10 Camarón, palta, cebollín, envuelto en salmón.</li><li>10 Carane, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, queso crema, cebollín, envuelto en tempura.</li><li>10 Pollo, palta, cebollín, envuelto en sésamo.</li><li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>Salmón, queso crema, ciboulette, envuelto en sésamo.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [23900],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
+  },
+  {
+    "ID": "P16",
+    "Titulo": "100 Piezas Premium",
+    "Descripcion": "<li>10 Kanikama, pimentón, cebollín, envuelto en alga tempurizado.</li><li>10 Camarón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Camarón furai, palta, cebollín, envuelto en salmón.</li><li>10 Pollo, queso crema, palta, envuelto en sésamo.</li><li>10 Pollo, palta, cebollín, envuelto en queso crema.</li><li>10 Salmón, queso crema, ciboulette, envuelto en tempura.</li><li>10 Salmón, camarón, queso crema, envuelto en palta.</li><li>10 Champiñon furai, palta, envuelto en sésamo.</li><li>10 Atún, queso crema, ciboulette, envuelto en tempura.</li><li>10 Pollo, queso crema, envuelto en alga nori.</li>",
+    "Tipo": "promos-mixtas-premium",
+    "Precio": [29000],
+    "Oferta": 7.500,
+    "Imagen": [
+      "images/portfolio-2.jpg",
+      "/img/sushis/img1-2.jpg",
+      "/img/sushis/img1-3.jpg"
+    ]
   }
 ]

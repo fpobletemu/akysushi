@@ -25,11 +25,16 @@ function traerDatos() {
 
                 precios = ``;
                 total=``;
+                precio_titulo = ``;
+                precio_titulo_total = ``;
 
                 for (let precio of item.Precio){
                      precios = `<div class="badge bg-secondary">$${precio}</div>`;
+                     precio_titulo = ` $${precio} `
                      total = total + precios;
-                     
+                     precio_titulo_total = precio_titulo_total + precio_titulo;
+
+                                                             
                 }
 
                 tarjeta.innerHTML += `
@@ -56,7 +61,7 @@ function traerDatos() {
                                             <button type="button" class="close" data-dismiss="modal"><span
                                                     aria-hidden="true">&times;</span><span
                                                     class="sr-only">Cerrar</span></button>
-                                            <h4 class="modal-title" id="${item.ID}-label">${item.ID}.-${item.Titulo}</h4>
+                                            <h4 class="modal-title" id="${item.ID}-label">${item.ID}.- ${item.Titulo} - ${precio_titulo_total}</h4>
                                         </div>
                                         <div class="modal-body">
 
