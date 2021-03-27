@@ -14,7 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="shortcut icon" href="images/fav-icon.png">
 
     <link href="bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="fonts/font-awesome/css/font-awesome.css" rel="stylesheet">
@@ -80,7 +80,7 @@
                                         id="navbar-collapse-1">
                                         <ul class="nav navbar-nav navbar-right">
                                             <li class="active"><a href="#">Inicio</a></li>
-                                            <li><a href="#portfolio">Carta</a></li>
+                                            <li><a href="#carta">Carta</a></li>
                                             <li><a href="#contact">Contacto</a></li>
                                         </ul>
                                     </div>
@@ -102,33 +102,52 @@
     <!-- header end -->
     <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-    <!-- section start -->
-    <section class="section secPadding">
+
+    <section id="filters">
         <div class="container">
-            <h1 class="text-center title" id="portfolio">Carta</h1>
+            <!-- isotope filters start -->
+            <div class="filters text-center">
+                <ul class="nav nav-pills">
+                    <li class="active"><a href="#" data-filter="*"><img class="center"
+                                src="images/sushi/filter/default.png" width="150" alt="">Todos</a></li>
+                    <li><a href="#carta" data-filter=".roll"><img src="images/sushi/filter/default.png" width="150"
+                                alt="">Rolls</a></li>
+                    <li><a href="#carta" data-filter=".especialidades"><img src="images/sushi/filter/default.png"
+                                width="150" alt="">Especialidades</a></li>
+                    <li><a href="#carta" data-filter=".sin-arroz"><img src="images/sushi/filter/default.png" width="150"
+                                alt="">Sin Arroz</a></li>
+                    <li><a href="#carta" data-filter=".hosomaki"><img src="images/sushi/filter/default.png" width="150"
+                                alt="">Hosomaki</a></li>
+                    <li><a href="#carta" data-filter=".akymano"><img src="images/sushi/filter/akimano_1.png" width="150"
+                                alt="">Akymano</a></li>
+                    <li><a href="#carta" data-filter=".platos"><img src="images/sushi/filter/platos.png" width="150"
+                                alt="">Platos</a></li>
+                    <li><a href="#carta" data-filter=".picoteos"><img src="images/sushi/filter/picoteos_1.png"
+                                width="150" alt="">Picoteos</a></li>
+                    <li><a href="#carta" data-filter=".promos-mixtas"><img src="images/sushi/filter/promos-mixtas.png"
+                                width="150" alt="">Promos Mixtas</a></li>
+                    <li><a href="#carta" data-filter=".promos-mixtas-premium"><img
+                                src="images/sushi/filter/promos-mixtas-prem.png" width="150" alt="">Promos Mixtas
+                            Premium</a></li>
+                </ul>
+            </div>
+
+        </div>
+
+
+    </section>
+
+    <!-- section start -->
+    <section id="carta" class="section secPadding">
+        <div class="container">
+            <h1 class="text-center title" id="portfolio"></h1>
             <div class="separator"></div>
-            <p class="lead text-center">Lorem ipsum dolor sit amet laudantium molestias similique.<br> Quisquam incidunt
-                ut laboriosam.</p>
+            <p class="lead text-center"></p>
             <br>
             <div class="row no-view" data-animation-effect="fadeIn">
                 <div class="col-md-12">
 
-                    <!-- isotope filters start -->
-                    <div class="filters text-center">
-                        <ul class="nav nav-pills">
-                            <li class="active"><a href="#" data-filter="*">Todos</a></li>
-                            <li><a href="#portfolio" data-filter=".roll">Rolls</a></li>
-                            <li><a href="#" data-filter=".especialidades">Especialidades</a></li>
-                            <li><a href="#" data-filter=".sin-arroz">Sin Arroz</a></li>
-                            <li><a href="#" data-filter=".hosomaki">Hosomaki</a></li>
-                            <li><a href="#" data-filter=".akymano">Akymano</a></li>
-                            <li><a href="#" data-filter=".platos">Platos</a></li>
-                            <li><a href="#" data-filter=".picoteos">Picoteos</a></li>
-                            <li><a href="#" data-filter=".promos-mixtas">Promos Mixtas</a></li>
-                            <li><a href="#" data-filter=".promos-mixtas-premium">Promos Mixtas Premium</a></li>
-                            <li><a href="#" data-filter=".promos-mixtas-premium">Promos Mixtas Premium</a></li>
-                        </ul>
-                    </div>
+
                     <!-- isotope filters end -->
 
                     <!-- portfolio items start -->
@@ -162,12 +181,10 @@
 
                             <div class="widget-content">
 
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel nam magnam natus
-                                    tempora cumque, aliquam deleniti voluptatibus voluptas. Maecenas ultrices finibus
-                                    erat sit amet auctor. Curabitur et metus laoreet, fermentum quam sagittis, cursus
-                                    augue. </p><br />
+                                <p></p><br />
 
-                                <p class="contacts"><i class="fa fa-map-marker"></i> Juan de Dios Malebran 175,Local 8, Ciudad del Sol, Puente Alto. </p>
+                                <p class="contacts"><i class="fa fa-map-marker"></i> Juan de Dios Malebran 175,Local 8,
+                                    Ciudad del Sol, Puente Alto. </p>
 
                                 <p class="contacts"><i class="fa fa-phone"></i> +56 9 72347615</p>
 
@@ -179,19 +196,20 @@
 
                             </aside>
                             <ul class="social-links">
-                                <li class="facebook"><a target="_blank" href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li class="twitter"><a target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li class="googleplus"><a target="_blank" href="#"><i class="fa fa-google-plus"></i></a>
-                                </li>
-                                <li class="skype"><a target="_blank" href="#"><i class="fa fa-skype"></i></a></li>
-                                <li class="linkedin"><a target="_blank" href="#"><i class="fa fa-linkedin"></i></a></li>
-                                <li class="youtube"><a target="_blank" href="#"><i class="fa fa-youtube"></i></a></li>
+                                <li class="facebook"><a target="_blank" href="https://www.facebook.com/akysushi"><i
+                                            class="fa fa-facebook"></i></a></li>
+                                <li class="instagram"><a target="_blank" href="https://www.instagram.com/akysushi"><i
+                                            class="fa fa-instagram"></i></a></li>
+                                <li class="whataspp"><a target="_blank" href="https://www.instagram.com/akysushi"><i
+                                            class="fa fa-whatsapp"></i></a></li>
                             </ul>
                         </div>
                     </div>
 
                     <div class="map-responsive">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3323.372585649695!2d-70.590834!3d-33.595636!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x71ca4ab4728a48a9!2sAky%20Sushi!5e0!3m2!1ses-419!2scl!4v1616118563024!5m2!1ses-419!2scl" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3323.372585649695!2d-70.590834!3d-33.595636!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x71ca4ab4728a48a9!2sAky%20Sushi!5e0!3m2!1ses-419!2scl!4v1616118563024!5m2!1ses-419!2scl"
+                            width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
 
 
@@ -216,6 +234,12 @@
     <!-- footer end -->
 
     <!-- JavaScript -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <a href="https://api.whatsapp.com/send?phone=56972347615&text=Hola,%20vengo%20de%20la%20web%20de%20akysushi."
+        class="float" target="_blank">
+        <i class="fa fa-whatsapp my-float"></i>
+    </a>
+
     <script type="text/javascript" src="plugins/jquery.min.js"></script>
     <script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="plugins/modernizr.js"></script>

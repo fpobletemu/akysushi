@@ -17,14 +17,26 @@ function traerDatos() {
 
             let tarjeta = document.querySelector('#tarjeta');
             tarjeta.innerHTML = '';
+
+
             
 
             for (let item of datos) {
+
+                precios = ``;
+                total=``;
+
+                for (let precio of item.Precio){
+                     precios = `<div class="badge bg-secondary">$${precio}</div>`;
+                     total = total + precios;
+                     
+                }
+
                 tarjeta.innerHTML += `
                 <div class="col-sm-6 col-md-3 isotope-item ${item.Tipo}">
                             <div class="image-box">
                                 <div class="overlay-container">
-                                    <img src="${item.Imagen[0]}" alt="">
+                                    <!--<img src="${item.Imagen[0]}" alt="">-->
                                     <a class="overlay" data-toggle="modal" data-target="#${item.ID}">
                                         <i class="fa fa-search-plus"></i>
 
@@ -32,7 +44,9 @@ function traerDatos() {
                                 </div>
                                 <a class="btn btn-default btn-block" data-toggle="modal"
                                     data-target="#${item.ID}">${item.ID}.- ${item.Titulo}</a>
+                                    ${total}
                             </div>
+                            
                             <!-- Modal -->
                             <div class="modal fade" id="${item.ID}" tabindex="-1" role="dialog"
                                 aria-labelledby="${item.ID}-label" aria-hidden="true">
@@ -48,7 +62,7 @@ function traerDatos() {
 
                                             <div class="row">
                                                 <div class="col-md-6">
-                                                    <img src="${item.Imagen[0]}" alt="">
+                                                    <img src="images/sushi/tarjetas/default-in.png" alt="">
                                                     
                                                     
                                                 </div>
