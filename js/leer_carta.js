@@ -41,7 +41,7 @@ function traerDatos() {
                 <div class="col-sm-6 col-md-3 isotope-item ${item.Tipo}">
                             <div class="image-box">
                                 <div class="overlay-container">
-                                    <img src="${item.Imagen[0]}" alt="">
+                                    <!--<img src="${item.Imagen[0]}" alt="">-->
                                     <a class="overlay" data-toggle="modal" data-target="#${item.ID}">
                                         <i class="fa fa-search-plus"></i>
 
